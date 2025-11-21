@@ -1,6 +1,6 @@
 
+<h3 align="center"><b>Rafli Chesio</h3>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank">
@@ -16,18 +16,11 @@
 </div>
 
 
-
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
-<p align="left">Hey there! I’m Rafli — an aspiring Backend Developer who’s currently exploring the tech universe one stack at a time.
+<p align="left">Aspiring Backend Developer who loves exploring technology and turning concepts into real, working systems. Focused on growth, clean logic, and building things that actually make sense.
 
-I started with HTML, CSS, and JavaScript, and now I’m diving deeper into backend development with Node.js. Still working on my first flagship project, but the journey’s been fun, messy, and full of “aha” moments — exactly how exploring should be.
-
-Outside of coding, I’m a gamer, which kinda shapes how I think about building systems: strategy, efficiency, and always leveling up.
-
-Still learning, still experimenting, still curious. Let’s build something cool.</p>
+Undergraduate in Informatics Engineering Education – Universitas Negeri Medan</p>
 
 ###
 
@@ -35,7 +28,7 @@ Still learning, still experimenting, still curious. Let’s build something cool
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 <p><b>Currently Using / Learning<p>
 
 ###
@@ -54,11 +47,11 @@ Still learning, still experimenting, still curious. Let’s build something cool
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rafli-chesio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
