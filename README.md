@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkOTN0djVvZjN6aGF4NHExd3BrdzM5YjZxM2dlOWZiYzJqeDk4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 </div>
 
 <div align="center">
@@ -19,11 +19,10 @@ Undergraduate in Informatics Engineering Education – Universitas Negeri Medan<
 ###
 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="158" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rafli-chesio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 
 
 ###
