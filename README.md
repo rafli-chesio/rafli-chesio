@@ -25,7 +25,7 @@
 <p align="center" style="font-size: 1.1rem; max-width: 800px; margin: auto; line-height: 1.6;">
   The ever-evolving tech landscape never fails to spark my curiosity. Currently, I am diving deep into <b>Backend Development</b>, driven by a passion to understand the mechanics of systems behind the scenes.
   <br/><br/>
-  Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>. I enjoy the process of exploring new technologies and challenging myself to translate concepts into efficient, functional code.
+  Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>
 </p>
 
 <br/>
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
   
-  <br/><br/>
+  <br/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
   <img width="25" />
