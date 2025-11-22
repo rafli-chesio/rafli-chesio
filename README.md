@@ -60,6 +60,18 @@
   </table>
 </div>
 
+<h2 align="center">📫 Connect with Me</h2>
+<div align="center">
+  <br/>
+  <a href="mailto:raflichesio@gmail.com" target="_blank"><b>Email</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://raflichesio.com" target="_blank"><b>Website</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://instagram.com/raflichesio" target="_blank"><b>Instagram</b></a>
+</div>
+</div>
+
 <div align="center">
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rafli-chesio.rafli-chesio&left_text=Profile%20Views&right_color=green" />
@@ -68,3 +80,4 @@
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0d1117" />
 </div>
+
