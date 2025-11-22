@@ -25,37 +25,52 @@
 <p align="center" style="font-size: 1.1rem; max-width: 800px; margin: auto; line-height: 1.6;">
   The ever-evolving tech landscape never fails to spark my curiosity. Currently, I am diving deep into <b>Backend Development</b>, driven by a passion to understand the mechanics of systems behind the scenes.
   <br/><br/>
-  Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>
+  Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>. I enjoy the process of exploring new technologies and challenging myself to translate concepts into efficient, functional code.
 </p>
 
 <br/>
 
+<h2 align="center">⚡ Language & Tools</h2>
 
 <div align="center">
- <h2 align="center">⚡ Language & Tools</h2>
+  <table>
+    <tr>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
-</p>
+  <br/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="40" alt="obsidian" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="35" alt="gemini" />
-</p>
- </div>
+  <table>
+    <tr>
+      <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+      </td>
+      <td align="center" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="35" alt="obsidian" />
+      </td>
+      <td align="center" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="25" alt="gemini" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -84,8 +99,12 @@
   </p>
 </div>
 
-<br/>
+<div align="center">
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafli-chesio.rafli-chesio&left_text=Profile%20Views&right_color=green" />
+</div>
 
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0d1117" />
 </div>
+
