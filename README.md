@@ -22,9 +22,10 @@
   🚀 Aspiring <b>Backend Developer</b> who loves exploring technology.
 </h3>
 
-<p align="center" style="font-size: 1.2rem; max-width: 800px; margin: auto;">
-  Saya berfokus pada pertumbuhan skill, penulisan logika kode yang bersih (clean code), dan membangun sistem yang solutif. <br/>
-  Saat ini menempuh pendidikan S1 di <b>Pendidikan Teknologi Informatika – Universitas Negeri Medan</b>.
+<p align="center" style="font-size: 1.1rem; max-width: 800px; margin: auto; line-height: 1.6;">
+  The ever-evolving tech landscape never fails to spark my curiosity. Currently, I am diving deep into <b>Backend Development</b>, driven by a passion to understand the mechanics of systems behind the scenes.
+  <br/><br/>
+  Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>. I enjoy the process of exploring new technologies and challenging myself to translate concepts into efficient, functional code.
 </p>
 
 <br/>
