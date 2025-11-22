@@ -32,6 +32,7 @@
 
 <h2 align="center">⚡ Language & Tools</h2>
 <div align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="45" alt="gemini logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
@@ -50,8 +51,7 @@
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="45" alt="obsidian logo" />
   <img width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="45" alt="gemini logo" />
-</div>
+ </div>
 
 <br/>
 
