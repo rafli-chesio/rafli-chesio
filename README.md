@@ -52,6 +52,7 @@ Undergraduate in Informatics Engineering Education – Universitas Negeri Medan<
 </div>
 
 ###
+<h1 align="center">Connect With Me</h1>
 
 ###
 
