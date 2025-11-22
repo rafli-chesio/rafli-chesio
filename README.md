@@ -62,7 +62,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
       </td>
       <td align="center" valign="middle">
-        <img src="/img/Sticker_Chibi_Animation_Generation.gif" width="250" alt="Side Image" />
+        <img src="/img/rafli1.png" width="250" alt="Side Image" />
       </td>
     </tr>
   </table>
