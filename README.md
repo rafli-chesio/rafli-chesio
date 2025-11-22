@@ -43,9 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
-  <img width="20" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="45" alt="obsidian logo" />
-  <img width="20" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="50" alt="obsidian" />
+  <img width="12" />
 </div>
 
 <br/>
@@ -66,32 +68,17 @@
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-muhammad--rafli--chesio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <b>Email:</b><br/>
+    <a href="mailto:rafli.chesio@gmail.com">rafli.chesio@gmail.com</a>
   </p>
   <p>
-    <a href="mailto:raflichesio@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-raflichesio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://instagram.com/raflichesio" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-raflichesio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </p>
-  <p>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/WEBSITE-raflichesio.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-    </a>  
+    <b>Portofolio:</b><br/>
+    <a href="https://raflichesio.com" target="_blank">Rafly Chesio</a>
   </p>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafli-chesio.rafli-chesio&left_text=Profile%20Views&right_color=green" />
-</div>
+<br/>
 
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0d1117" />
 </div>
-
