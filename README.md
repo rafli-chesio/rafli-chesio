@@ -28,7 +28,6 @@
   Currently, I am pursuing a Bachelor's degree in <b>Informatics Engineering Education – Universitas Negeri Medan</b>. I enjoy the process of exploring new technologies and challenging myself to translate concepts into efficient, functional code.
 </p>
 
-<br/>
 
 <hr/>
 
@@ -64,6 +63,7 @@
 </div>
 
 <br/>
+<hr/>
 
 <h3 align="left">📫 Connect with Me</h3>
 <div align="left">
