@@ -1,72 +1,64 @@
 <div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9oc29jMHduOWEwb3FlMjlvbzduYzZyanEzY3FucGd5dnIzN2FzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+  <img src="/img/Animasi_Programmer_Debugging_Terburu_buru (1).gif" height="250" alt="Banner Rafli Chesio" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Rafli+Chesio!+%F0%9F%91%8B;Backend+Developer+Enthusiast;Informatics+Student+@+UNIMED;Turning+Logic+into+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://instagram.com/raflichesio" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="instagram logo" />
+  </a>
 </div>
 
+<br/>
 
-###
+<h3 align="center">
+  🚀 Aspiring <b>Backend Developer</b> who loves exploring technology.
+</h3>
 
-<h3 align="center"><b>Aspiring Backend Developer who loves exploring technology and turning concepts into real, working systems. Focused on growth, clean logic, and building things that actually make sense.
+<p align="center" style="font-size: 1.2rem; max-width: 800px; margin: auto;">
+  Saya berfokus pada pertumbuhan skill, penulisan logika kode yang bersih (clean code), dan membangun sistem yang solutif. <br/>
+  Saat ini menempuh pendidikan S1 di <b>Pendidikan Teknologi Informatika – Universitas Negeri Medan</b>.
+</p>
 
-Undergraduate in Informatics Engineering Education – Universitas Negeri Medan</h3>
+<br/>
 
-###
+<h2 align="center">⚡ Language & Tools</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafli-chesio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rafli-chesio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-###
-
-
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafli-chesio.rafli-chesio&"  />
-</div>
-
-
-
-###
-
-<h1 align="center">Language and tools</h1>
-<p align="center"><b>Currently Using / Learning<p>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="15" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafli-chesio.rafli-chesio&left_text=Profile%20Views&right_color=green" />
 </div>
-
-###
-<h1 align="center">Connect With Me</h1>
-
-###
-
-
-
-###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0d1117" />
 </div>
-
-###
