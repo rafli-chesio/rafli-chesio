@@ -62,14 +62,25 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <br/>
-  <a href="mailto:raflichesio@gmail.com" target="_blank"><b>Email</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://raflichesio.com" target="_blank"><b>Website</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://instagram.com/raflichesio" target="_blank"><b>Instagram</b></a>
-</div>
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-rafli-chesio" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-muhammad--rafli--chesio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
+  <p>
+    <a href="mailto:raflichesio@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-raflichesio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://instagram.com/raflichesio" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-raflichesio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </p>
+  <p>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/WEBSITE-raflichesio.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+  </p>
 </div>
 
 <div align="center">
