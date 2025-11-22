@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2 align="center">⚡ Language & Tools</h2>
+
 <div align="center">
  <h2 align="center">⚡ Language & Tools</h2>
 
