@@ -55,16 +55,36 @@
 <br/>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="60%">
+        <h3 align="center">⚡ Language & Tools</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+          <img width="8" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+          <img width="8" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="35" alt="obsidian" />
+          <img width="8" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="25" alt="gemini" />
+        </div>
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=rafli-chesio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-chesio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
       </td>
-      <td width="50"></td>
-      <td align="center" valign="middle">
-        <img src="img/rafli.png" height="90%" alt="My Avatar" />
+      <td align="center" valign="middle" width="40%">
+        <img src="img/rafli.png" width="100%" alt="My Avatar" />
       </td>
     </tr>
   </table>
