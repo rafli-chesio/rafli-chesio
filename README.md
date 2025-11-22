@@ -12,9 +12,9 @@
 
 ###
 
-<h4 align="center">Aspiring Backend Developer who loves exploring technology and turning concepts into real, working systems. Focused on growth, clean logic, and building things that actually make sense.
+<h3 align="center">Aspiring Backend Developer who loves exploring technology and turning concepts into real, working systems. Focused on growth, clean logic, and building things that actually make sense.
 
-Undergraduate in Informatics Engineering Education – Universitas Negeri Medan</h4>
+Undergraduate in Informatics Engineering Education – Universitas Negeri Medan</h3>
 
 ###
 
