@@ -50,7 +50,6 @@
   <img width="6" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="40" alt="obsidian" />
   <img width="6" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="30" alt="gemini" />
 </div>
 
 <br/>
