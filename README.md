@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="/img/Animasi_Programmer_Debugging_Terburu_buru (1).gif" height="250" alt="Banner Rafli Chesio" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
